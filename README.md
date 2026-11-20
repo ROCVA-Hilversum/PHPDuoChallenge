@@ -52,16 +52,7 @@ Maak eerst de vijf verplichte stappen: invoer en rekenen → vier controles → 
 
 Elke HTML-instructie heeft een operatorenkaart met voorbeelden. Bij het testen voorspellen jullie eerst het resultaat. Test daarna precies op de grens, onder de grens, losse fouten en combinaties van fouten.
 
-## Instructie op GitHub Pages
-
-De zelfstandige [clone-instructie](publiceer/clone-instructie.html) kun je direct op je eigen site plaatsen. Gebruik [het HTML-fragment](publiceer/clone-fragment.html) als je de uitleg in een bestaande pagina wilt plakken. Beide hebben ingebouwde opmaak en geen externe afhankelijkheden.
-
-Vervang eerst `JOUW-GITHUBNAAM/JOUW-REPO` door je echte repo-adres. **GitHub Pages voert geen PHP uit**: de instructies staan online, studenten voeren de PHP-bestanden lokaal uit. De PHP-knoppen in de opdrachten zijn bedoeld voor de lokale server. De hoofdpagina `index.html` verwijst automatisch door naar de keuze-instructie wanneer je de hele repo via Pages aanbiedt.
-
 ## Samenwerken en GitHub
 
 Werk met één gedeelde werkversie per duo. De bestuurder typt; de navigator voorspelt uitkomsten, leest en controleert. Wissel elke vijftien minuten.
 
-De docent geeft aan hoe jullie de repo ontvangen en inleveren: bijvoorbeeld via GitHub Classroom of één fork per duo. Als jullie Git gebruiken, maak dan samen een commit na de basis en na het testen. Beide studenten moeten de code kunnen uitleggen.
-
-De repo bevat ook een [docentenhandleiding](docent/README.md), een [optionele Projects-bordindeling](docent/projectbord.md) en een pullrequesttemplate voor het inleveren.
