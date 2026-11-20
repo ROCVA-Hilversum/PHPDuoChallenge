@@ -65,4 +65,3 @@ Werk met één gedeelde werkversie per duo. De bestuurder typt; de navigator voo
 De docent geeft aan hoe jullie de repo ontvangen en inleveren: bijvoorbeeld via GitHub Classroom of één fork per duo. Als jullie Git gebruiken, maak dan samen een commit na de basis en na het testen. Beide studenten moeten de code kunnen uitleggen.
 
 De repo bevat ook een [docentenhandleiding](docent/README.md), een [optionele Projects-bordindeling](docent/projectbord.md) en een pullrequesttemplate voor het inleveren.
-

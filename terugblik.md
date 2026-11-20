@@ -29,4 +29,3 @@ Wijs in jullie code een voorbeeld aan van `=`, `.`, `+`, `-`, `*`, `<`, `!==`, `
 - Gekozen bonus:
 - Onze extra spelregels:
 - Onze extra testgevallen en uitkomsten:
-

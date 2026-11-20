@@ -19,4 +19,3 @@
 ## Bonus
 
 Welke bonus hebben jullie gemaakt? Laat leeg als jullie alleen de basis hebben gemaakt.
-
